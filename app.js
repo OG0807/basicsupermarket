@@ -1,7 +1,7 @@
 // Product data
 const products = [
   {"id": 1, "name": "Bananas", "category": "Produce", "price": 0.99},
-  {"id": 2, "name": "Apples", "category": "Produce", "price": 1.29, "image": "https://via.placeholder.com/150?text=Apples"},
+  {"id": 2, "name": "Apples", "category": "Produce", "price": 1.29, "image": "https://www.shutterstock.com/image-photo/red-apple-cut-half-water-droplets-2532255795"},
   {"id": 3, "name": "Milk (1L)", "category": "Dairy", "price": 1.99, "image": "https://via.placeholder.com/150?text=Milk"},
   {"id": 4, "name": "Cheddar Cheese", "category": "Dairy", "price": 2.79, "image": "https://via.placeholder.com/150?text=Cheddar"},
   {"id": 5, "name": "White Bread", "category": "Bakery", "price": 1.49, "image": "https://via.placeholder.com/150?text=Bread"},
